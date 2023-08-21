@@ -1,0 +1,22 @@
+{
+  "name": "Java",
+  "username": "java",
+  "email": "java@java.com",
+  "address": {
+    "street": "java",
+    "suite": "0",
+    "city": "Java City",
+    "zipcode": "92998-3874",
+    "geo": {
+      "lat": "-37.3159",
+      "lng": "81.1496"
+    }
+  },
+  "phone": "1-234-567-8967 x11111",
+  "website": "java.org",
+  "company": {
+    "name": "java",
+    "catchPhrase": "java java java java java java java java java java java java java",
+    "bs": "harness real-time e-markets"
+  }
+}
